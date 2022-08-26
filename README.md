@@ -1,6 +1,6 @@
-# Css-FlexBox e o seu poder na organização de elementos em um conteiner. 
+# Css-Flexbox 
 
-Foi desenvolvido um layout de exemplo da utilização da propriedade do CSS o Flexbox.
+Foi desenvolvido um layout de exemplo da utilização da propriedade do CSS o > "Flexbox".
 
 ## Recursos do CSS Flexbox utilizados na criação do projeto:
 - display: Flex
